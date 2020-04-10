@@ -44,7 +44,7 @@
       <div class="page-header-image" data-parallax="true" style="background-image: url('images/ganns.jpg'); background-size: 40%"></div>
       <div class="container">
         <div class="content-center">
-          <div class="cc-profile-image"><a href="#"><img src="images/ganteng.jpeg" alt="Image"/></a></div>
+          <div class="cc-profile-image"><a href="#"><img src="images/ganns.jpg" alt="Image"/></a></div>
           <div class="h2 title">Yulfi Teguh Santoso</div>
           <p class="category text-white">IT-SUPPORT, IT-NETWORKING,  IT-System Administrator</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Kontak Saya</a>
         </div>
